@@ -9,5 +9,4 @@ Outside of work, I'm interested in literature and art. I also write and make tec
 Let's connect:
 
 [![Instagram](https://github.com/magdhamilt/magdhamilt/blob/master/images/instagram.svg)](https://www.instagram.com/mhamilton.py/)
-[![Instagram](https://github.com/magdhamilt/magdhamilt/blob/master/images/linkedin.svg)](https://www.linkedin.com/in/magdalenahamilton/)
 [![Instagram](https://github.com/magdhamilt/magdhamilt/blob/master/images/medium.svg)](https://magdahamilton.medium.com/)
