@@ -2,7 +2,7 @@ Hello, world!
 
 My name is Magda Hamilton.
 
-I'm an iOS Design Engineer + Creative Technologist.
+I'm a Graphics & Design Engineer + Creative Technologist.
 
 I'm also the Founder of [Velvet Disruption](https://velvetdisruption.com) — a creative studio exploring the edges of technology and design.
 
